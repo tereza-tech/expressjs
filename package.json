@@ -1,9 +1,9 @@
 {
   "name": "expressjs",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Jake Runzer",
+  "author": "Tereza M",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.ts",
